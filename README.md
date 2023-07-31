@@ -1,3 +1,3 @@
 # Travel-And-Tourism-Management-System
 
-The Travel Management System Project In Java was developed in JAVA Programming using NetBeans IDE, This Java Project With Source Code designed using Graphical User Interface (GUI), This project in Java NetBeans Using Selection Statement (If Statement), Random Function Generator.
+The Travel and Tourism Management System is a software project which is build by using swing  framework from java ,it aims to facilitate the management of travel and tourism-related operations. It provides an interactive Graphical User Interface (GUI) built using the Swing framework for Java and utilizes a MySQL database to store and retrieve data.
